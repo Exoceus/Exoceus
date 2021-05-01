@@ -1,7 +1,7 @@
 ### Hi there, I'm Jatin Mehta 👋
-- I'm the founder and developer of [OppHub](https://www.opp-hub.com/).
-- Currently a graduating high school student and looking to pursue an undergrad in CS/Engineering.
-- I'm currently working on [Empire Frenzy](https://github.com/Exoceus/empire-frenzy).
+- ⛳ I'm the founder and developer of [OppHub](https://www.opp-hub.com/). 
+- 💻 Currently a graduating high school student and looking to pursue an undergrad in CS/Engineering.
+- 🎮 I'm currently working on [Empire Frenzy](https://github.com/Exoceus/empire-frenzy).
 
 ## Past
 - **Interned at Zappos Family of Companies** : Joined the Machine Intelligence team to develop an automated pipeline to develop 3D models for AR features which were released to over a million users. Generated synthetic datasets using Unity for training semantic segmentation models and prototyping foot tracking models.
