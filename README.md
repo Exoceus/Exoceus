@@ -1,4 +1,4 @@
-### Hi there, I'm Jatin Mehta 👋
+# Hi there, I'm Jatin Mehta 👋
 - ⛳ I'm the founder and developer of [OppHub](https://www.opp-hub.com/). 
 - 💻 Currently a graduating high school student and looking to pursue an undergrad in CS/Engineering.
 - 🎮 I'm currently working on [Empire Frenzy](https://github.com/Exoceus/empire-frenzy).
