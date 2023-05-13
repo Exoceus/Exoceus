@@ -3,12 +3,12 @@
 - 🏎️ Working on building an autonomous race car at [MIT-PITT-RW](https://www.mitpittrw.com/) team which has gone on to the following tracks: Monza Circuit (Official F1), Indianapolis Motor Speedway, Texas Motor Speedway and Las Vegas Motor Speedway as a part of the [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/).
 
 ## Past
-- **Interned at Cradle**, an early stage startup which was work at the intersection of gaming and Web3/blockchain, where I 
+- 🎮 **Interned at Cradle**, an early stage startup which was work at the intersection of gaming and Web3/blockchain, where I 
 - ⛳ For a year, I continually designed and developed OppHub ([Site](https://www.opp-hub.com/), [Repo](https://www.github.com/exoceus/opphub)) into a platform which was used by over 10,000 students across 80+ countries. 
-- **Interned at RBC** where I worked on an internal web app using React, TypeScript and WebSockets
-- **Interned at Zappos Family of Companies** : Joined the Machine Intelligence team to develop an automated pipeline to develop 3D models for AR features which were released to over a million users.
-- Attended 8 hackathons and built many (mostly useless) projects.
-- Co-founded a med-tech startup as a part of the RyersonU's Basecamp Business Incubator Program.
+- 🏦 **Interned at RBC** where I worked on an internal web app using React, TypeScript and WebSockets
+- 🤖 **Interned at Zappos Family of Companies** : Joined the Machine Intelligence team to develop an automated pipeline to develop 3D models for AR features which were released to over a million users.
+- 👨‍💻 Attended 8 hackathons and built many (mostly useless) projects.
+- 🏥 Co-founded a med-tech startup as a part of the RyersonU's Basecamp Business Incubator Program.
 
 ## Contact
 
