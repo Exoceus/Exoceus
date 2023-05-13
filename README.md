@@ -16,7 +16,8 @@
 - [Personal Website](https://www.jatinmehta.ca/)
 - [LinkedIn](https://www.linkedin.com/in/jatin-r-mehta/)
 
-## Status
+---
+
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=exoceus&show_icons=true&theme=radical)
 
 <!--
