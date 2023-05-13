@@ -1,6 +1,6 @@
 # Hi there, I'm Jatin Mehta 👋
 - 💻 Currently a doing an undergrad in CS at the Univeristy of Waterloo (w/ Co-op).
-- 🏎️ Working on building an autonomous race car at MIT-PITT-RW design team which has gone on Monza Circuit (Official F1), Indianapolis Motor Speedway and Las Vegas Motor Speedway.
+- 🏎️ Working on building an autonomous race car at [MIT-PITT-RW](https://www.mitpittrw.com/) team which has gone on to the following tracks: Monza Circuit (Official F1), Indianapolis Motor Speedway, Texas Motor Speedway and Las Vegas Motor Speedway as a part of the [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/).
 
 ## Past
 - **Interned at Cradle**, an early stage startup which was work at the intersection of gaming and Web3/blockchain, where I 
