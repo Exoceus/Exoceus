@@ -16,9 +16,6 @@
 - [Personal Website](https://www.jatinmehta.ca/)
 - [LinkedIn](https://www.linkedin.com/in/jatin-r-mehta/)
 
----
-
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=exoceus&show_icons=true&theme=radical)
 
 <!--
 **Exoceus/Exoceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
