@@ -1,7 +1,5 @@
 # Hi there, I'm Jatin Mehta 👋
 
-School email: jatin.mehta@uwaterloo.ca
-
 - 💻 Currently a doing an undergrad in CS at the Univeristy of Waterloo (w/ Co-op). Most interesting courses were: CS 146 where I got to learn C and build an interepreter for Racket; CS 246E: built a terminal-based game engine using C++.
 - Making tax less painful (and hopefully delightful) at Rivet Tax.
 - Research assistant at the CrySP Lab at UWaterloo
@@ -17,8 +15,7 @@ School email: jatin.mehta@uwaterloo.ca
 
 ## Contact
 
-- You can reach me at [mehta.r.jatin@gmail.com](mailto:mehta.r.jatin@gmail.com)
-- [Personal Website](https://www.jatinmehta.ca/)
+- [Personal Website](https://www.jatinm.com/)
 - [LinkedIn](https://www.linkedin.com/in/jatin-r-mehta/)
 
 
