@@ -3,7 +3,8 @@
 School email: jatin.mehta@uwaterloo.ca
 
 - 💻 Currently a doing an undergrad in CS at the Univeristy of Waterloo (w/ Co-op). Most interesting courses were: CS 146 where I got to learn C and build an interepreter for Racket; CS 246E: built a terminal-based game engine using C++.
-- Making tax less painful (and hopefully delightful) at @rivettax
+- Making tax less painful (and hopefully delightful) at Rivet Tax.
+- Research assistant at the CrySP Lab at UWaterloo
 
 ## Past
 - 🏎️ Working on building an autonomous race car at [MIT-PITT-RW](https://www.mitpittrw.com/) team which has gone on to the following tracks: Monza Circuit (Official F1), Indianapolis Motor Speedway, Texas Motor Speedway and Las Vegas Motor Speedway as a part of the [Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/).
