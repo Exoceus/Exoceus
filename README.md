@@ -13,12 +13,6 @@
 - 👨‍💻 Attended 8 hackathons and built many (mostly useless) projects.
 - 🏥 Co-founded a med-tech startup as a part of the RyersonU's Basecamp Business Incubator Program.
 
-## Contact
-
-- [Personal Website](https://www.jatinm.com/)
-- [LinkedIn](https://www.linkedin.com/in/jatin-r-mehta/)
-
-
 <!--
 **Exoceus/Exoceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
