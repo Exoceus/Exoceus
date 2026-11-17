@@ -1,6 +1,6 @@
 # Hi there, I'm Jatin Mehta 👋
 
-Trying to dive deep into AI Hardware and Med <> AI applications!
+I was pre-AI. Trying to be post-AI as well 🤭
 
 ## Past
 - 💻 Did an undergrad in CS at the Univeristy of Waterloo (w/ Co-op). Most interesting courses were: CS 146 where I got to learn C and build an interepreter for Racket; CS 246E: built a terminal-based game engine using C++.
